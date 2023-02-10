@@ -1,5 +1,4 @@
-# todo
-
+```
 내 생각에는 ~인 것 같아
 	내 생각에는 ~가 연관 되어 있는 것 같아
 
@@ -11,7 +10,6 @@ Speak, Talk, Say, Tell
     어떤 메시지를 상대에게 전달한다는 의미가 있음
 - speak, talk: 말하는 행위 중심
 
-# TODO
 빈도가 2퍼센트 미만이다
 1혹시모르니
 반대쪽: across from
@@ -115,7 +113,7 @@ whose is this
 
 I'm gonna ~
 Be going to
-
+```
 
 ## non Vs none
 - Non: means not when used as a prefix.
